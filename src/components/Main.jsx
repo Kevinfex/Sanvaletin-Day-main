@@ -18,7 +18,7 @@ export function Main () {
                     <p className='font-mono text-yellow-100 flex justify-center flex-col items-center'>
                          {textP} 
 
-                         <img src={imageSpecial} className='w-20 h-10 rounded-full'/>
+                         <img src={imageSpecial} className='w-20 h-20 rounded-full'/>
                     </p>
 
                     <section className='flex gap-3'>
